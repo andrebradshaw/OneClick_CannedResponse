@@ -1,4 +1,4 @@
-var yourmsg = "This sounds like a good topic for the subreddit.\n\nUnfortunately I do not have the time to engage on this topic via email.\nI'm sorry :(";
+var yourmsg = "This sounds like a good topic for my subreddit.\n\nUnfortunately I do not have the time to engage on this topic via email.\nI'm sorry :(";
 
 function clickreply(){
 	var spn = document.getElementsByTagName("span");
